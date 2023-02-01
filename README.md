@@ -1,31 +1,12 @@
+Aquesta sucesió és simple però funcional. 
+Pitjant el botó A, li passes el numero de vegades que vols elevear el numero. 
 
-> Abra esta pagina en [https://martimasover.github.io/microbit-marti-sans/](https://martimasover.github.io/microbit-marti-sans/)
+   _____      __        _                               _                        _                     _     _ _          
+  / ____|     \_\      (_)                             | |                      | |                   (_)   (_) |         
+ | |  __ _ __ __ _  ___ _  ___  ___   _ __   ___ _ __  | | __ _  __   _____  ___| |_ _ __ __ _  __   ___ ___ _| |_ __ _   
+ | | |_ | '__/ _` |/ __| |/ _ \/ __| | '_ \ / _ \ '__| | |/ _` | \ \ / / _ \/ __| __| '__/ _` | \ \ / / / __| | __/ _` |  
+ | |__| | | | (_| | (__| |  __/\__ \ | |_) |  __/ |    | | (_| |  \ V / (_) \__ \ |_| | | (_| |  \ V /| \__ \ | || (_| |_ 
+  \_____|_|  \__,_|\___|_|\___||___/ | .__/ \___|_|    |_|\__,_|   \_/ \___/|___/\__|_|  \__,_|   \_/ |_|___/_|\__\__,_(_)
+                                     | |                                                                                  
+                                     |_|                                                                                  
 
-## Usar como extensión
-
-Este repositorio puede ser añadido como una **extensión** en MakeCode.
-
-* abra [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* haga clic en **New Project**
-* haga clic en **Extensiones** en el menú del engranaje
-* buscar **https://github.com/martimasover/microbit-marti-sans** e importar
-
-## Edita este proyecto ![Insignia de estado de compilación](https://github.com/martimasover/microbit-marti-sans/workflows/MakeCode/badge.svg)
-
-Para editar este repositorio en MakeCode.
-
-* abra [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* haga clic en **Import** luego haga clic en **Import URL**
-* pegue **https://github.com/martimasover/microbit-marti-sans** y haga clic en importar
-
-## Vista previa de bloques
-
-Esta imagen muestra el código de los bloques de la última confirmación en master.
-Esta imagen puede tardar unos minutos en actualizarse.
-
-![Una vista renderizada de los bloques](https://github.com/martimasover/microbit-marti-sans/raw/master/.github/makecode/blocks.png)
-
-#### Metadatos (utilizados para búsqueda, renderizado)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
